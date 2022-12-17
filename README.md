@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emily Greven
-- 👀 I’m interested in data science, databases, python, functional programming, math
-- 🌱 I’m currently learning data science using python, data structures and algorithms, multivariate calculus, and Ancient Greek
+- 👀 I’m interested in data science, databases, python, math
+- 🌱 I’m currently learning data science using python, machine learning, NLP, and Ancient Greek
 - 📫 How to reach me https://www.linkedin.com/in/egreven
 
 <!---
